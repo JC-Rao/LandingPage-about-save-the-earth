@@ -1,0 +1,48 @@
+<svg width="1440" height="718" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" y2="50%" x2="50%" y1="129.104%" x1="137.029%">
+   <stop offset="0%" stop-opacity="0" stop-color="#FFF"/>
+   <stop offset="100%" stop-color="#C9F0FF"/>
+  </linearGradient>
+  <linearGradient id="b" y2="70.702%" x2="107.047%" y1="-224.453%" x1="-160.796%">
+   <stop offset="0%" stop-opacity="0" stop-color="#FFF"/>
+   <stop offset="100%" stop-color="#DEF5FE"/>
+  </linearGradient>
+  <linearGradient id="c" y2="50%" x2="65.921%" y1="338.405%" x1="-347.113%">
+   <stop offset="0%" stop-opacity="0" stop-color="#FFF"/>
+   <stop offset="100%" stop-color="#C9F0FF"/>
+  </linearGradient>
+  <linearGradient id="d" y2="50%" x2="65.921%" y1="148.218%" x1="-97.01%">
+   <stop offset="0%" stop-opacity="0" stop-color="#FFF"/>
+   <stop offset="100%" stop-color="#C9F0FF"/>
+  </linearGradient>
+  <linearGradient id="e" y2="100%" x2="117.594%" y1="-6.768%" x1="-19.87%">
+   <stop offset="0%" stop-opacity="0" stop-color="#FFF"/>
+   <stop offset="100%" stop-color="#C9F0FF"/>
+  </linearGradient>
+  <linearGradient id="f" y2="84.589%" x2="0%" y1="0%" x1="119.936%">
+   <stop offset="0%" stop-opacity="0" stop-color="#FFF"/>
+   <stop offset="100%" stop-color="#C9F0FF"/>
+  </linearGradient>
+  <linearGradient id="g" y2="17.758%" x2="137.149%" y1="77.649%" x1="-89.026%">
+   <stop offset="0%" stop-opacity="0" stop-color="#FFF"/>
+   <stop offset="100%" stop-color="#C9F0FF"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="#ffffff" id="canvas_background" height="720" width="1442" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1" fill-rule="evenodd" fill="none">
+   <rect id="svg_2" rx="3" height="38" width="38" y="100.87" x="1279.87" transform="rotate(45 1298.8699951171873,119.86999511718741) " fill="url(#a)"/>
+   <rect id="svg_3" rx="1" height="17" width="17" y="675.042" x="34.521" transform="rotate(45 43.02099990844755,683.5419921874999) " fill="url(#b)"/>
+   <path stroke="url(#c)" style="vector-effect: non-scaling-stroke;" id="svg_4" opacity="0.543" stroke-width="10" d="0"/>
+   <path id="svg_5" transform="rotate(30 761.199951171875,67.29019165039062) " opacity="0.543" stroke-width="10" stroke="url(#d)" d="m765.672,46.644l18.41,36.82a5,5 0 0 1 -4.472,7.236l-36.82,0a5,5 0 0 1 -4.472,-7.236l18.41,-36.82a5,5 0 0 1 8.944,0z"/>
+   <path id="svg_6" fill="url(#e)" d="m-25,289c38.952,-92.623 86.427,-109.935 170.692,-99.992c84.265,9.943 152.14,91.606 212.59,0c15.672,-23.751 -109.135,-60.51 -29.279,-76.526c79.856,-16.016 -71.251,-23.316 58.144,-55.007c129.395,-31.691 -18.096,-70.062 -69.395,-87.898c-53.275,-18.522 15.159,-67.282 20.444,-85.903c8.58,-30.232 -112.485,-30.232 -363.196,0l0,405.326z"/>
+   <path id="svg_7" fill="url(#f)" d="m1476,676.99998c-50.78555,-0.42281 -88.23306,-8.73798 -112.34311,-24.94552c-36.16479,-24.31069 -35.86529,-76.88464 -112.97055,-74.01034c-77.10468,2.8743 -135.50046,-35.88401 -130.24615,-42.00116c5.25431,-6.11715 97.5842,-29.01195 113.91547,-82.99169c16.33068,-53.97975 2.15718,81.32945 -22.4667,57.3127c-24.62388,-24.01675 -127.35636,-76.44126 -137.89272,-80.67588c-10.53636,-4.23462 -14.54299,-26.34799 -12.53074,-48.76905c2.01225,-22.42106 8.46177,21.06786 8.34063,0c-0.12114,-21.06786 37.00755,0 62.47694,0l343.71693,0l0,296.08094z" stroke="null"/>
+   <path id="svg_8" fill="url(#g)" d="m100.396,460.23c8.7,-1.82 11.409,7.778 27.275,7.778c15.866,0 29.975,-9.065 49.61,-1.072c19.636,7.994 35.523,32.21 15.406,27.541c-11.882,-2.758 -26.578,-11.167 -46.816,4.842c-20.239,16.008 -32.349,-14.56 -47.511,-9.869c-15.163,4.692 -6.735,-27.386 2.036,-29.22z"/>
+  </g>
+ </g>
+</svg>
