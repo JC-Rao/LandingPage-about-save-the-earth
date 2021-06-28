@@ -207,7 +207,7 @@ img {
 
 
 header {
-    background-image: url(/images/method-draw-image.svg);
+    background-image: url('./images/method-draw-image.svg');
     background-size: cover;
     background-position: center center;
     background-color:hsl(193, 100%, 99%);
@@ -239,7 +239,7 @@ nav {
 
 .small-box {
     display:inline-block;
-    background-image: url(/images/littleforest.svg);
+    background-image: url('./images/littleforest.svg');
     background-size: cover;
     position: relative;
     margin-bottom: -50%;
